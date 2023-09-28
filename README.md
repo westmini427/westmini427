@@ -2,7 +2,7 @@
 
 ```json
 {
-    "Name" : "Minhui Seo",
+    "Welcome" : "to my Github Profile",
     "Wanna" : "be a team player and grow with the team",
     "Interested" : "in developing server backend and DevOps"
 }

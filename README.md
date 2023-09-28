@@ -8,7 +8,14 @@
 }
 ```
 
-
+<br/>
+<br/>
+<div align=center style="display: flex, height:180px">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=westmini427&show_icons=true&theme=buefy&hide_border=true" alt="SOKURI's github stats" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westmini427&layout=compact&theme=buefy&hide_border=true" />
+</div>
+<br />
+<br />
 
 ### 🛠️ What I used to
 

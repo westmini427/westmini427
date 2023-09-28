@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&text="Hello,&nbsp;world!"&fontColor:white&fontSize=50)
+<br/>
+<br/>
 
 ```json
 {
@@ -7,18 +9,19 @@
     "Interested" : "in developing server backend and DevOps"
 }
 ```
-<div align=center 
 <br/>
-<br/>
-<div style="display: flex, height:180px">
+<div align=center style="display: flex, height:180px">
+
+### 🔥 Github Status
+
+<div align=center style="display: flex, height:180px">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=westmini427&show_icons=true&theme=buefy&hide_border=true" alt="SOKURI's github stats" />
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westmini427&layout=compact&theme=buefy&hide_border=true" />
-</div>
+
 <br />
 <br />
 
 ### 🛠️ What I used to
-
 |Category|Language|
 |:--:|:--|
 |Frontend|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
@@ -28,8 +31,10 @@
 |Cloud|![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)|
 |Deployment|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)|
 |Dev Tools|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
-|commuication|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
+|Communication|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
 
-/div>
+<br />
+<br />
+
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=100&&section=footer)
 

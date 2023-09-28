@@ -36,5 +36,3 @@
 <br />
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=100&&section=footer)
-

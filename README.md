@@ -1,3 +1,4 @@
+<div align=center 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&text="Hello,&nbsp;world!"&fontColor:white&fontSize=50)
 
 ```json
@@ -10,7 +11,7 @@
 
 <br/>
 <br/>
-<div align=center style="display: flex, height:180px">
+<div style="display: flex, height:180px">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=westmini427&show_icons=true&theme=buefy&hide_border=true" alt="SOKURI's github stats" />
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westmini427&layout=compact&theme=buefy&hide_border=true" />
 </div>
@@ -31,3 +32,4 @@
 |commuication|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=100&&section=footer)
+/div>

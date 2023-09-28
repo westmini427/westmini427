@@ -1,4 +1,3 @@
-<div align=center 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&text="Hello,&nbsp;world!"&fontColor:white&fontSize=50)
 
 ```json
@@ -8,7 +7,7 @@
     "Interested" : "in developing server backend and DevOps"
 }
 ```
-
+<div align=center 
 <br/>
 <br/>
 <div style="display: flex, height:180px">

@@ -30,5 +30,6 @@
 |Dev Tools|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
 |commuication|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=100&&section=footer)
 /div>
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=100&&section=footer)
+

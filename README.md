@@ -14,9 +14,6 @@
 
 ### 🛠️ What I used to
 <br/>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westmini427&layout=compact&theme=default&hide_border=true" />
-
-<br/>
 
 |Category|Language|
 |:--:|:--|

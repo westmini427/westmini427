@@ -9,7 +9,6 @@
     "Interested" : "in developing server backend and DevOps"
 }
 ```
-<br/>
 <div align=center style="display: flex, height:180px">
 
 ### 🛠️ What I used to

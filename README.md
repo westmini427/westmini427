@@ -11,13 +11,6 @@
 ```
 <br/>
 <div align=center style="display: flex, height:180px">
-
-### 🔥 Github Status
-
-<div align=center style="display: flex, height:180px">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=westmini427&show_icons=true&theme=default&hide_border=true" alt="SOKURI's github stats" />
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westmini427&layout=compact&theme=default&hide_border=true" />
-
 <br />
 <br />
 

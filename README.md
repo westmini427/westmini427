@@ -11,8 +11,6 @@
 ```
 <br/>
 <div align=center style="display: flex, height:180px">
-<br />
-<br />
 
 ### 🛠️ What I used to
 |Category|Language|

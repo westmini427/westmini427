@@ -6,7 +6,7 @@
 {
     "Welcome" : "to my Github Profile",
     "Wanna" : "be a team player and grow with the team",
-    "Interested" : "in developing server backend and DevOps"
+    "Interested" : "in system programming and engineering"
 }
 ```
 <div align=center style="display: flex, height:180px">

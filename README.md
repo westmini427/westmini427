@@ -5,7 +5,7 @@
 ```json
 {
     "Welcome" : "to my Github Profile",
-    "Wanna" : "be a team player and grow with the team",
+    "Wanna" : "be a team player and grow with team",
     "Interested" : "in system programming and engineering"
 }
 ```

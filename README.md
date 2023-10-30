@@ -13,7 +13,8 @@
 
 <br/>
 
-#### My portfolio : https://westmini427.notion.site/westmini427/Minhui-Seo-6d1b2fa8021f4e4fa363a1844b861976 
+#### Please read my portfolio
+[My Portfolio] (https://westmini427.notion.site/westmini427/Minhui-Seo-6d1b2fa8021f4e4fa363a1844b861976)
 
 
 ####  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧

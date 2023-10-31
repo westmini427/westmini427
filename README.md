@@ -15,6 +15,8 @@
 
 ⬇️ My portfolio ⬇️ 
 
+<br/>
+
 <a href="https://westmini427.notion.site/Minhui-Seo-6d1b2fa8021f4e4fa363a1844b861976?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a> 
 
 <br/>

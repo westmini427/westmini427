@@ -2,17 +2,14 @@
 <br/>
 <br/>
 
-```json
-{
-    "Welcome": "to my Github Profile",
-    "Wanna": "be a team player and grow with team",
-    "Interested": "in cloud engineering",
-    "AdditionalInfo": [
-        "Working as a cloud engineer since December 2023",
-        "Interested in computer networks, Linux, and AWS",
-        "I like studying endlessly."
-    ]
-}
+```yaml
+Welcome: "to my Github Profile"
+Wanna: "be a team player and grow with team"
+Interested: "in cloud engineering"
+AdditionalInfo:
+  - "Working as a cloud engineer since December 2023"
+  - "Interested in computer networks, Linux, and AWS"
+  - "I like studying endlessly."
 ```
 <div align=center style="display: flex, height:180px">
 
